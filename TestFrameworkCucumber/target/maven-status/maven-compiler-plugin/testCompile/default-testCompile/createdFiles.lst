@@ -1,0 +1,4 @@
+stepDefinitions\TestGoogleSearch.class
+runnerClasses\TestNewtoursRunnerClass.class
+stepDefinitions\TestNewtours.class
+runnerClasses\TestRunnerGoogleSearch.class
