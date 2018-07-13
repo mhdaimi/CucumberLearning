@@ -1,4 +1,7 @@
 /classes/
 /test-classes/
-.classpath
-.project
+/cucumber-htmlreport/
+/maven-status/
+/surefire-reports/
+ExtentReport.*
+cucumber-report*.json
